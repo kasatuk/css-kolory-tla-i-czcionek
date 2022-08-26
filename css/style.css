@@ -1,0 +1,43 @@
+body{
+    background-color: aqua;
+}
+h1{
+    background-color: blueviolet;
+    color: aqua;
+}
+h2{
+    background-color: cornsilk;
+    color: black;
+}
+p1{
+    background-color: blue;
+    color: darkgoldenrod;
+}
+p2{
+    background-color: blanchedalmond;
+    color: blueviolet;
+}
+ol{
+    background-color: crimson;
+    color: blue;
+}
+li.one{
+    background-color: antiquewhite;
+    color: black;
+}
+li.two{
+    background-color: black;
+    color: antiquewhite;
+}
+li.three{
+    background-color: brown;
+    color: darkgoldenrod;
+}
+li.four{
+    background-color: grey;
+    color: deeppink;
+}
+li.five{
+    background-color: black;
+    color: ivory;
+}
